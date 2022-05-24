@@ -1,10 +1,21 @@
 {
   "name": "canvas-logan",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "./dist/fabric.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "browser": {
+    "canvas": false,
+    "fs": false,
+    "jsdom": false,
+    "jsdom/lib/jsdom/living/generated/utils": false,
+    "jsdom/lib/jsdom/utils": false,
+    "http": false,
+    "https": false,
+    "xmldom": false,
+    "url": false
   },
   "repository": {
     "type": "git",
