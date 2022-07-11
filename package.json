@@ -30,8 +30,5 @@
   "files": [
     "dist/*.js"
   ],
-  "homepage": "https://github.com/Ctrl30/canvas-logan#readme",
-  "dependencies": {
-    "canvas-logan": "1.0.12"
-  }
+  "homepage": "https://github.com/Ctrl30/canvas-logan#readme"
 }
