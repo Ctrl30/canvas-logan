@@ -1,6 +1,6 @@
 {
   "name": "canvas-logan",
-  "version": "1.0.12",
+  "version": "1.0.13",
   "description": "",
   "main": "./dist/fabric.js",
   "scripts": {
@@ -27,5 +27,8 @@
   "bugs": {
     "url": "https://github.com/Ctrl30/canvas-logan/issues"
   },
+  "files": [
+    "hello"
+  ],
   "homepage": "https://github.com/Ctrl30/canvas-logan#readme"
 }
